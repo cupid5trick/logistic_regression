@@ -142,3 +142,8 @@ cython_debug/
 
 # Pycharm
 /.idea/
+*.csv
+*.xlsx
+*.xls
+*.png
+*.jpg
